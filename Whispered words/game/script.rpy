@@ -21,7 +21,7 @@ s "Sammy wait!"
 scene classroom
 with fade
 
-show SadSammy at right
+show sadsammy at right
 c "Bla bla bla"
 
 n "..."
@@ -34,10 +34,18 @@ a "Psttt Pstt"
 s "Huh..?"
 
 a "Hey! You're like super smart right?"
-
-s "Uhm."
+show annoyed
+s "Oh. I guess."
 
 a "Right.. Well! a my name is Angie, It's nice to meet you"
+
+s "Nice to meet you too, what do you--"
+
+show beg at jump
+
+a "I was curious if you'd be able to tutor me?"
+"I desperately need to pass the next test!!"
+"If I don't I won't be able to play in my next volleyball tournament!"
 
 
 
