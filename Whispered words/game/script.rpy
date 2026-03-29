@@ -5,7 +5,9 @@
 
 define s = Character("Sammy")
 define a = Character("Angie")
-
+define n = Character(" ")
+define b = Character("Girls")
+define c = Character("Teacher")
 
 
 # The game starts here.
@@ -14,4 +16,16 @@ label start:
 
 scene nurses
 
-s "I love smelly people"
+s "Sammy wait!"
+
+scene class
+
+c "Bla bla bla"
+
+n "..."
+n "..."
+n "..."
+n "..."
+
+a "Psttt Pstt"
+
