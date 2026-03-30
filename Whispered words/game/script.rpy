@@ -27,5 +27,6 @@ n "..."
 n "..."
 n "..."
 
+show chill at left
 a "Psttt Pstt"
 
