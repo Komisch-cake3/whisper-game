@@ -20,6 +20,7 @@ s "Sammy wait!"
 
 scene class
 
+show annoyed at right
 c "Bla bla bla"
 
 n "..."
@@ -29,4 +30,8 @@ n "..."
 
 show chill at left
 a "Psttt Pstt"
+
+
+
+
 
