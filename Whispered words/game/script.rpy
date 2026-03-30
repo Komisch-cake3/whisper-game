@@ -14,22 +14,30 @@ define c = Character("Teacher")
 
 label start:
 
-scene nurses
+scene nurse
 
 s "Sammy wait!"
 
-scene class
+scene classroom
+with fade
 
-show annoyed at right
+show SadSammy at right
 c "Bla bla bla"
 
 n "..."
-n "..."
-n "..."
-n "..."
 
-show chill at left
+
+show chill  at left
+with easeinleft
 a "Psttt Pstt"
+
+s "Huh..?"
+
+a "Hey! You're like super smart right?"
+
+s "Uhm."
+
+a "Right.. Well! a my name is Angie, It's nice to meet you"
 
 
 
